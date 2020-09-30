@@ -9,7 +9,7 @@ https://www.amazon.co.jp/Amazon%E3%82%AE%E3%83%95%E3%83%88%E5%88%B8-E%E3%83%A1%E
 suzune25254649@gmail.com
 
 # セットアップの仕方
-右上にある"Clone or download"をクリックし、"Download ZIP"を選んでください。
+右上にある"Code"をクリックし、"Download ZIP"を選んでください。
 
 https://github.com/julius-speech/grammar-kit/tree/f078d29099c29c32b7acd345872aaa003b8638fb
 
