@@ -1,0 +1,3 @@
+[submodule "grammar-kit"]
+	path = grammar-kit
+	url = https://github.com/julius-speech/grammar-kit.git

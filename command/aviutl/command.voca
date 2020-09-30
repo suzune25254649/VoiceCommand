@@ -1,0 +1,222 @@
+
+%COMMAND
+VK_TAB						t u g i
+VK_TAB						t a b u
+VK_RETURN,VK_OEM_PERIOD		m i g i
+VK_RETURN,VK_OEM_COMMA		h i d a r i
+VK_RETURN,VK_SHIFT+VK_TAB	u e
+VK_RETURN,VK_TAB			s i t a
+VK_RETURN					y o sh i
+VK_SHIFT+VK_TAB,VK_BACK		k e s u
+
+%NUMERIC
+VK_0,VK_TAB			r e:
+VK_0,VK_TAB			z e r o
+VK_1,VK_TAB			i ch i
+VK_2,VK_TAB			n i
+VK_2,VK_TAB			n i:
+VK_3,VK_TAB			s a N
+VK_4,VK_TAB			y o N
+VK_4,VK_TAB			sh i
+VK_5,VK_TAB			g o
+VK_5,VK_TAB			g o:
+VK_6,VK_TAB			r o k u
+VK_7,VK_TAB			n a n a
+VK_7,VK_TAB			sh i ch i
+VK_7,VK_TAB			h i ch i
+VK_8,VK_TAB			h a ch i
+VK_9,VK_TAB			ky u:
+VK_9,VK_TAB			k u
+
+VK_1,VK_0,VK_TAB	j u:
+VK_1,VK_1,VK_TAB	j u: i ch i
+VK_1,VK_2,VK_TAB	j u: n i
+VK_1,VK_2,VK_TAB	j u: n i:
+VK_1,VK_3,VK_TAB	j u: s a N
+VK_1,VK_4,VK_TAB	j u: y o N
+VK_1,VK_4,VK_TAB	j u: sh i
+VK_1,VK_5,VK_TAB	j u: g o
+VK_1,VK_5,VK_TAB	j u: g o:
+VK_1,VK_6,VK_TAB	j u: r o k u
+VK_1,VK_7,VK_TAB	j u: n a n a
+VK_1,VK_7,VK_TAB	j u: sh i ch i
+VK_1,VK_7,VK_TAB	j u: h i ch i
+VK_1,VK_8,VK_TAB	j u: h a ch i
+VK_1,VK_9,VK_TAB	j u: ky u:
+VK_1,VK_9,VK_TAB	j u: k u
+
+VK_2,VK_0,VK_TAB	n i j u:
+VK_2,VK_1,VK_TAB	n i j u: i ch i
+VK_2,VK_2,VK_TAB	n i j u: n i
+VK_2,VK_2,VK_TAB	n i j u: n i:
+VK_2,VK_3,VK_TAB	n i j u: s a N
+VK_2,VK_4,VK_TAB	n i j u: y o N
+VK_2,VK_4,VK_TAB	n i j u: sh i
+VK_2,VK_5,VK_TAB	n i j u: g o
+VK_2,VK_5,VK_TAB	n i j u: g o:
+VK_2,VK_6,VK_TAB	n i j u: r o k u
+VK_2,VK_7,VK_TAB	n i j u: n a n a
+VK_2,VK_7,VK_TAB	n i j u: sh i ch i
+VK_2,VK_7,VK_TAB	n i j u: h i ch i
+VK_2,VK_8,VK_TAB	n i j u: h a ch i
+VK_2,VK_9,VK_TAB	n i j u: ky u:
+VK_2,VK_9,VK_TAB	n i j u: k u
+
+VK_3,VK_0,VK_TAB	s a N j u:
+VK_3,VK_1,VK_TAB	s a N j u: i ch i
+VK_3,VK_2,VK_TAB	s a N j u: n i
+VK_3,VK_2,VK_TAB	s a N j u: n i:
+VK_3,VK_3,VK_TAB	s a N j u: s a N
+VK_3,VK_4,VK_TAB	s a N j u: y o N
+VK_3,VK_4,VK_TAB	s a N j u: sh i
+VK_3,VK_5,VK_TAB	s a N j u: g o
+VK_3,VK_5,VK_TAB	s a N j u: g o:
+VK_3,VK_6,VK_TAB	s a N j u: r o k u
+VK_3,VK_7,VK_TAB	s a N j u: n a n a
+VK_3,VK_7,VK_TAB	s a N j u: sh i ch i
+VK_3,VK_7,VK_TAB	s a N j u: h i ch i
+VK_3,VK_8,VK_TAB	s a N j u: h a ch i
+VK_3,VK_9,VK_TAB	s a N j u: ky u:
+VK_3,VK_9,VK_TAB	s a N j u: k u
+
+VK_4,VK_0,VK_TAB	y o N j u:
+VK_4,VK_1,VK_TAB	y o N j u: i ch i
+VK_4,VK_2,VK_TAB	y o N j u: n i
+VK_4,VK_2,VK_TAB	y o N j u: n i:
+VK_4,VK_3,VK_TAB	y o N j u: s a N
+VK_4,VK_4,VK_TAB	y o N j u: y o N
+VK_4,VK_4,VK_TAB	y o N j u: sh i
+VK_4,VK_5,VK_TAB	y o N j u: g o
+VK_4,VK_5,VK_TAB	y o N j u: g o:
+VK_4,VK_6,VK_TAB	y o N j u: r o k u
+VK_4,VK_7,VK_TAB	y o N j u: n a n a
+VK_4,VK_7,VK_TAB	y o N j u: sh i ch i
+VK_4,VK_7,VK_TAB	y o N j u: h i ch i
+VK_4,VK_8,VK_TAB	y o N j u: h a ch i
+VK_4,VK_9,VK_TAB	y o N j u: ky u:
+VK_4,VK_9,VK_TAB	y o N j u: k u
+
+VK_5,VK_0,VK_TAB	g o j u:
+VK_5,VK_1,VK_TAB	g o j u: i ch i
+VK_5,VK_2,VK_TAB	g o j u: n i
+VK_5,VK_2,VK_TAB	g o j u: n i:
+VK_5,VK_3,VK_TAB	g o j u: s a N
+VK_5,VK_4,VK_TAB	g o j u: y o N
+VK_5,VK_4,VK_TAB	g o j u: sh i
+VK_5,VK_5,VK_TAB	g o j u: g o
+VK_5,VK_5,VK_TAB	g o j u: g o:
+VK_5,VK_6,VK_TAB	g o j u: r o k u
+VK_5,VK_7,VK_TAB	g o j u: n a n a
+VK_5,VK_7,VK_TAB	g o j u: sh i ch i
+VK_5,VK_7,VK_TAB	g o j u: h i ch i
+VK_5,VK_8,VK_TAB	g o j u: h a ch i
+VK_5,VK_9,VK_TAB	g o j u: ky u:
+VK_5,VK_9,VK_TAB	g o j u: k u
+
+VK_6,VK_0,VK_TAB	r o k u j u:
+VK_6,VK_1,VK_TAB	r o k u j u: i ch i
+VK_6,VK_2,VK_TAB	r o k u j u: n i
+VK_6,VK_2,VK_TAB	r o k u j u: n i:
+VK_6,VK_3,VK_TAB	r o k u j u: s a N
+VK_6,VK_4,VK_TAB	r o k u j u: y o N
+VK_6,VK_4,VK_TAB	r o k u j u: sh i
+VK_6,VK_5,VK_TAB	r o k u j u: g o
+VK_6,VK_5,VK_TAB	r o k u j u: g o:
+VK_6,VK_6,VK_TAB	r o k u j u: r o k u
+VK_6,VK_7,VK_TAB	r o k u j u: n a n a
+VK_6,VK_7,VK_TAB	r o k u j u: sh i ch i
+VK_6,VK_7,VK_TAB	r o k u j u: h i ch i
+VK_6,VK_8,VK_TAB	r o k u j u: h a ch i
+VK_6,VK_9,VK_TAB	r o k u j u: ky u:
+VK_6,VK_9,VK_TAB	r o k u j u: k u
+
+VK_7,VK_0,VK_TAB	n a n a j u:
+VK_7,VK_1,VK_TAB	n a n a j u: i ch i
+VK_7,VK_2,VK_TAB	n a n a j u: n i
+VK_7,VK_2,VK_TAB	n a n a j u: n i:
+VK_7,VK_3,VK_TAB	n a n a j u: s a N
+VK_7,VK_4,VK_TAB	n a n a j u: y o N
+VK_7,VK_4,VK_TAB	n a n a j u: sh i
+VK_7,VK_5,VK_TAB	n a n a j u: g o
+VK_7,VK_5,VK_TAB	n a n a j u: g o:
+VK_7,VK_6,VK_TAB	n a n a j u: r o k u
+VK_7,VK_7,VK_TAB	n a n a j u: n a n a
+VK_7,VK_7,VK_TAB	n a n a j u: sh i ch i
+VK_7,VK_7,VK_TAB	n a n a j u: h i ch i
+VK_7,VK_8,VK_TAB	n a n a j u: h a ch i
+VK_7,VK_9,VK_TAB	n a n a j u: ky u:
+VK_7,VK_9,VK_TAB	n a n a j u: k u
+
+VK_7,VK_0,VK_TAB	sh i ch i j u:
+VK_7,VK_1,VK_TAB	sh i ch i j u: i ch i
+VK_7,VK_2,VK_TAB	sh i ch i j u: n i
+VK_7,VK_2,VK_TAB	sh i ch i j u: n i:
+VK_7,VK_3,VK_TAB	sh i ch i j u: s a N
+VK_7,VK_4,VK_TAB	sh i ch i j u: y o N
+VK_7,VK_4,VK_TAB	sh i ch i j u: sh i
+VK_7,VK_5,VK_TAB	sh i ch i j u: g o
+VK_7,VK_5,VK_TAB	sh i ch i j u: g o:
+VK_7,VK_6,VK_TAB	sh i ch i j u: r o k u
+VK_7,VK_7,VK_TAB	sh i ch i j u: n a n a
+VK_7,VK_7,VK_TAB	sh i ch i j u: sh i ch i
+VK_7,VK_7,VK_TAB	sh i ch i j u: h i ch i
+VK_7,VK_8,VK_TAB	sh i ch i j u: h a ch i
+VK_7,VK_9,VK_TAB	sh i ch i j u: ky u:
+VK_7,VK_9,VK_TAB	sh i ch i j u: k u
+
+VK_7,VK_0,VK_TAB	h i ch i j u:
+VK_7,VK_1,VK_TAB	h i ch i j u: i ch i
+VK_7,VK_2,VK_TAB	h i ch i j u: n i
+VK_7,VK_2,VK_TAB	h i ch i j u: n i:
+VK_7,VK_3,VK_TAB	h i ch i j u: s a N
+VK_7,VK_4,VK_TAB	h i ch i j u: y o N
+VK_7,VK_4,VK_TAB	h i ch i j u: sh i
+VK_7,VK_5,VK_TAB	h i ch i j u: g o
+VK_7,VK_5,VK_TAB	h i ch i j u: g o:
+VK_7,VK_6,VK_TAB	h i ch i j u: r o k u
+VK_7,VK_7,VK_TAB	h i ch i j u: n a n a
+VK_7,VK_7,VK_TAB	h i ch i j u: sh i ch i
+VK_7,VK_7,VK_TAB	h i ch i j u: h i ch i
+VK_7,VK_8,VK_TAB	h i ch i j u: h a ch i
+VK_7,VK_9,VK_TAB	h i ch i j u: ky u:
+VK_7,VK_9,VK_TAB	h i ch i j u: k u
+
+VK_8,VK_0,VK_TAB	h a ch i j u:
+VK_8,VK_1,VK_TAB	h a ch i j u: i ch i
+VK_8,VK_2,VK_TAB	h a ch i j u: n i
+VK_8,VK_2,VK_TAB	h a ch i j u: n i:
+VK_8,VK_3,VK_TAB	h a ch i j u: s a N
+VK_8,VK_4,VK_TAB	h a ch i j u: y o N
+VK_8,VK_4,VK_TAB	h a ch i j u: sh i
+VK_8,VK_5,VK_TAB	h a ch i j u: g o
+VK_8,VK_5,VK_TAB	h a ch i j u: g o:
+VK_8,VK_6,VK_TAB	h a ch i j u: r o k u
+VK_8,VK_7,VK_TAB	h a ch i j u: n a n a
+VK_8,VK_7,VK_TAB	h a ch i j u: sh i ch i
+VK_8,VK_7,VK_TAB	h a ch i j u: h i ch i
+VK_8,VK_8,VK_TAB	h a ch i j u: h a ch i
+VK_8,VK_9,VK_TAB	h a ch i j u: ky u:
+VK_8,VK_9,VK_TAB	h a ch i j u: k u
+
+VK_9,VK_0,VK_TAB	ky u: j u:
+VK_9,VK_1,VK_TAB	ky u: j u: i ch i
+VK_9,VK_2,VK_TAB	ky u: j u: n i
+VK_9,VK_2,VK_TAB	ky u: j u: n i:
+VK_9,VK_3,VK_TAB	ky u: j u: s a N
+VK_9,VK_4,VK_TAB	ky u: j u: y o N
+VK_9,VK_4,VK_TAB	ky u: j u: sh i
+VK_9,VK_5,VK_TAB	ky u: j u: g o
+VK_9,VK_5,VK_TAB	ky u: j u: g o:
+VK_9,VK_6,VK_TAB	ky u: j u: r o k u
+VK_9,VK_7,VK_TAB	ky u: j u: n a n a
+VK_9,VK_7,VK_TAB	ky u: j u: sh i ch i
+VK_9,VK_7,VK_TAB	ky u: j u: h i ch i
+VK_9,VK_8,VK_TAB	ky u: j u: h a ch i
+VK_9,VK_9,VK_TAB	ky u: j u: ky u:
+VK_9,VK_9,VK_TAB	ky u: j u: k u
+
+%NO_B
+silB	silB
+	
+%NO_E
+silE	silE
