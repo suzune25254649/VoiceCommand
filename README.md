@@ -11,27 +11,13 @@ suzune25254649@gmail.com
 # セットアップの仕方
 右上にある"Code"をクリックし、"Download ZIP"を選んでください。
 
-https://github.com/julius-speech/grammar-kit/tree/f078d29099c29c32b7acd345872aaa003b8638fb
+解凍し、中にあるsetup.batを起動してください。
 
-こちらからもZipをダウンロードしてください。
-
-VoiceCommandを展開した後、grammar-kitフォルダの中に、2つ目にダウンロードしたZipの中身をコピーします。
-
-- VoiceCommand-master
-    - command
-    - exe
-    - grammar-kit
-        - bin
-        - doc
-        - model
-        - SampleGrammars
-        - ...
-    - LICENSE
-    - ...
+セットアップが正常に完了しなかった場合、このページ末尾にある手動セットアップを試してください。
 
 # 起動の仕方
-- command/aviutl/compile.bat で辞書を生成します。
-- command/aviutl/run.bat で起動します。
+- command/aviutlに移動します
+- run.bat で起動します
 
 あとは画面の指示に従って「起動」と言い、その後は音声コマンドで操作ができるようになります。
 
@@ -91,3 +77,25 @@ grammar-kit側の説明を確認してくれ。
 command.vocaで「j u k u」を削除して（compile.batを起動して反映して）使うというのはどうだろうか？
 
 十九を打ちたい時は「じゅうきゅう」と言うべし。
+
+# 手動セットアップ
+https://github.com/julius-speech/grammar-kit/tree/f078d29099c29c32b7acd345872aaa003b8638fb
+
+こちらからもZipをダウンロードして展開。
+grammar-kitフォルダの中に、上記URLからダウンロードしたZipの中身を下記のようになるようコピーします。
+
+- VoiceCommand-master
+    - command
+    - exe
+    - grammar-kit
+        - bin
+        - doc
+        - model
+        - SampleGrammars
+        - ...
+    - .gitmodules
+    - LICENSE
+    - README.md
+    - setup.bat
+    - ThirdPartyLicense.md
+
