@@ -2,6 +2,7 @@
 
 echo grammar-kitのダウンロードを開始
 @bitsadmin /transfer myjob /PRIORITY FOREGROUND https://github.com/julius-speech/grammar-kit/archive/f078d29099c29c32b7acd345872aaa003b8638fb.zip %~dp0\grammar-kit\grammar-kit.zip
+if not exist .\grammar-kit\grammar-kit.zip @bitsadmin /transfer myjob /PRIORITY FOREGROUND https://github.com/julius-speech/grammar-kit/archive/f078d29099c29c32b7acd345872aaa003b8638fb.zip %~dp0\grammar-kit\grammar-kit.zip
 
 if not exist .\grammar-kit\grammar-kit.zip (
 	echo ERROR
